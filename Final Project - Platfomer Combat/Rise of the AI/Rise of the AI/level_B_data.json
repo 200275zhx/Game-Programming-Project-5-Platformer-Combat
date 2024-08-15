@@ -1,0 +1,23 @@
+{
+    "LevelB": {
+        "id": 0,
+        "interactive_items": {
+            "gate": [
+                {
+                    "index": 0,
+                    "state": 2
+                },
+                {
+                    "index": 1,
+                    "state": 0
+                }
+            ],
+            "gate_actuator": [
+                {
+                    "index": 0,
+                    "state": 0
+                }
+            ]
+        }
+    }
+}

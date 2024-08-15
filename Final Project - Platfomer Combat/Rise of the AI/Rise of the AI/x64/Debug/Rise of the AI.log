@@ -1,0 +1,37 @@
+﻿  Character.cpp
+C:\Users\20027\OneDrive\Desktop\Intro to Game Programming\Assignments\Rise of the AI\Rise of the AI\ShaderProgram.h(7,10): error C1083: Cannot open include file: 'SDL_opengl.h': No such file or directory
+  (compiling source file 'Character.cpp')
+  
+  Enemy.cpp
+C:\Users\20027\OneDrive\Desktop\Intro to Game Programming\Assignments\Rise of the AI\Rise of the AI\ShaderProgram.h(7,10): error C1083: Cannot open include file: 'SDL_opengl.h': No such file or directory
+  (compiling source file 'Enemy.cpp')
+  
+  Entity.cpp
+C:\Users\20027\OneDrive\Desktop\Intro to Game Programming\Assignments\Rise of the AI\Rise of the AI\Entity.cpp(9,10): error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  LevelA.cpp
+C:\Users\20027\OneDrive\Desktop\Intro to Game Programming\Assignments\Rise of the AI\Rise of the AI\Scene.h(9,10): error C1083: Cannot open include file: 'SDL_mixer.h': No such file or directory
+  (compiling source file 'LevelA.cpp')
+  
+  LevelB.cpp
+C:\Users\20027\OneDrive\Desktop\Intro to Game Programming\Assignments\Rise of the AI\Rise of the AI\Scene.h(9,10): error C1083: Cannot open include file: 'SDL_mixer.h': No such file or directory
+  (compiling source file 'LevelB.cpp')
+  
+  main.cpp
+C:\Users\20027\OneDrive\Desktop\Intro to Game Programming\Assignments\Rise of the AI\Rise of the AI\main.cpp(12,10): error C1083: Cannot open include file: 'SDL_mixer.h': No such file or directory
+  Map.cpp
+C:\Users\20027\OneDrive\Desktop\Intro to Game Programming\Assignments\Rise of the AI\Rise of the AI\Map.h(9,10): error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  (compiling source file 'Map.cpp')
+  
+  Scene.cpp
+C:\Users\20027\OneDrive\Desktop\Intro to Game Programming\Assignments\Rise of the AI\Rise of the AI\Scene.h(9,10): error C1083: Cannot open include file: 'SDL_mixer.h': No such file or directory
+  (compiling source file 'Scene.cpp')
+  
+  ShaderProgram.cpp
+C:\Users\20027\OneDrive\Desktop\Intro to Game Programming\Assignments\Rise of the AI\Rise of the AI\ShaderProgram.h(7,10): error C1083: Cannot open include file: 'SDL_opengl.h': No such file or directory
+  (compiling source file 'ShaderProgram.cpp')
+  
+  Utility.cpp
+C:\Users\20027\OneDrive\Desktop\Intro to Game Programming\Assignments\Rise of the AI\Rise of the AI\Utility.h(10,10): error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  (compiling source file 'Utility.cpp')
+  
+  Generating Code...

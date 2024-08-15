@@ -1,0 +1,8 @@
+{
+    "LevelC": {
+        "boss_state": 0,
+        "id": 0,
+        "interactive_items": {},
+        "player_life": 30.0
+    }
+}
